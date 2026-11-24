@@ -6,7 +6,7 @@ import nextstepVid from './assets/nextstepai.mp4'
 import nextstepost from './assets/nexstepai.png'
 import fruitpost from './assets/AgriculturalAi.png'
 import emailpost from './assets/intlligent_email_classifier.png'
-import resume from './assets/Resume AI engineer Zakaria Bellachia.pdf'
+import resume from './src/assets/Resume AI engineer Zakaria Bellachia.pdf'
 import '@fortawesome/fontawesome-free/css/all.min.css'
 
 // ================= PROJECTS =================
