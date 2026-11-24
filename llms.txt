@@ -1,0 +1,36 @@
+# Zakaria Bellachia — AI Solutions Engineer
+
+> Independent AI  Engineer specializing in building custom LLM workflows, autonomous AI agents, real-time computer vision APIs, and production NLP classification pipelines for startups.
+
+## Summary
+
+Zakaria Bellachia builds end-to-end production AI solutions. Primary technical stack includes Python, FastAPI, PyTorch, TensorFlow, scikit-learn, LangChain, React.js, Tailwind CSS, Docker, and OpenCV.
+
+## Primary Services
+
+- **Custom AI Agents:** Tailored LLM workflows, memory-enabled agents, and autonomous integrations.
+- **Computer Vision APIs:** Real-time object detection, transfer learning image classification, and custom CV pipelines.
+- **NLP & Text Classification:** Automated language processing APIs, spam/phishing detectors, and text analytics systems.
+
+## Featured Projects
+
+- [Email Spam Detection API](https://enron-spam-frontend-1-0-0.onrender.com): An email spam classifier API built on the Enron dataset achieving 96% accuracy using scikit-learn, FastAPI, Streamlit, and Docker.
+  - Source: https://github.com/ZakariaBellachia/enron-email-spam-detection-fastapi-project
+- [Fruit & Vegetables Classifier](https://fruit-frontend-1-0.onrender.com): A real-time computer vision classifier trained with transfer learning to 97% accuracy using TensorFlow, FastAPI, and Docker.
+  - Source: https://github.com/ZakariaBellachia/fruit-and-vegetables-detector-api
+- [NextStep AI](https://nextstep-ai-1-qxtz.onrender.com/): An autonomous AI planning agent that schedules tasks and daily routines from natural language input using OpenAI API, FastAPI, React.js, and Tailwind CSS.
+  - Source: https://github.com/ZakariaBellachia/nextstep-ai
+
+## Core Technical Stack
+
+- **Languages:** Python, R, JavaScript, SQL, HTML5, CSS3
+- **AI & ML:** PyTorch, TensorFlow, scikit-learn, OpenAI API, Gemini API, Ollama API, LangChain, RAG, Transformers, Hugging Face, spaCy, NLTK
+- **Backend & DevOps:** FastAPI, Pydantic, Uvicorn, Docker, Docker-Compose, Git, GitHub
+- **Frontend:** React.js, Tailwind CSS, Streamlit
+
+## Verification & External Profiles
+
+- GitHub: https://github.com/ZakariaBellachia
+- LinkedIn: https://www.linkedin.com/in/zakaria-bellachia-61a49522a
+- Upwork: https://www.upwork.com/freelancers/~01e835fa29f980855d
+- Kaggle: https://www.kaggle.com/zakariabellachia

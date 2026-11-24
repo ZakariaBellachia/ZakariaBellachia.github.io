@@ -1,0 +1,34 @@
+# Allow standard web search engine crawlers
+User-agent: *
+Allow: /
+
+# Allow AI Search & Retrieval Agents (Perplexity, OpenAI, Google, Anthropic, Apple)
+User-agent: PerplexityBot
+Allow: /
+
+User-agent: GPTBot
+Allow: /
+
+User-agent: ChatGPT-User
+Allow: /
+
+User-agent: OAI-SearchBot
+Allow: /
+
+User-agent: Google-Extended
+Allow: /
+
+User-agent: ClaudeBot
+Allow: /
+
+User-agent: Anthropic-ai
+Allow: /
+
+User-agent: Applebot-Extended
+Allow: /
+
+# Direct LLM & Agent Entry Point
+Allow: /llms.txt
+
+# Sitemap Location (Update with your live URL once deployed)
+Sitemap: https://zakariabellachia.github.io/sitemap.xml
