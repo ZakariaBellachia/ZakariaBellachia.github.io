@@ -1,0 +1,54 @@
+{
+  "entries": [
+    {
+      "@context": "https://agenticresourcediscovery.org/context/v1",
+      "identifier": "urn:air:github.com:zakariabellachia:ai-engineer",
+      "displayName": "Zakaria Bellachia - AI Engineer",
+      "type": "text/html",
+      "url": "https://github.com/ZakariaBellachia",
+      "description": "AI Engineer specializing in custom AI solutions, intelligent automation, Natural Language Processing, Computer Vision, and AI agent integration. Helping startups build practical, production-oriented AI applications.",
+      "representativeQueries": [
+        "Find an AI engineer to build custom AI agents for my startup",
+        "Find a developer to build an NLP or Computer Vision solution",
+        "I need help integrating AI capabilities into an existing website",
+        "Find a Python developer experienced in PyTorch, TensorFlow, and FastAPI"
+      ],
+      "capabilities": [
+        "ArtificialIntelligence",
+        "AIAgentIntegration",
+        "NaturalLanguageProcessing",
+        "ComputerVision",
+        "MachineLearning",
+        "DeepLearning",
+        "PythonDevelopment",
+        "FastAPI",
+        "PyTorch",
+        "TensorFlow",
+        "React"
+      ],
+      "tags": [
+        "AI Engineering",
+        "AI Agents",
+        "NLP",
+        "Computer Vision",
+        "Machine Learning",
+        "Python",
+        "Automation",
+        "Startups",
+        "Freelancing"
+      ],
+      "metadata": {
+        "name": "Zakaria Bellachia",
+        "jobTitle": "AI Engineer",
+        "github": "https://github.com/ZakariaBellachia",
+        "linkedin": "https://www.linkedin.com/in/zakaria-bellachia-61a49522a",
+        "kaggle": "https://www.kaggle.com/zakariabellachia",
+        "upwork": "https://www.upwork.com/freelancers/~01e835fa29f980855d",
+        "programmingLanguages": "Python, JavaScript, SQL, R",
+        "frameworks": "FastAPI, React, Streamlit",
+        "mlFrameworks": "PyTorch, TensorFlow, Scikit-learn",
+        "serviceFocus": "Production-oriented AI engineering"
+      }
+    }
+  ]
+}
