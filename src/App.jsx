@@ -1,4 +1,4 @@
-import React, { useState, useRef, useEffect } from 'react'
+import { useState, useRef } from 'react'
 import profileImage from './assets/GSW_033.JPG'
 import spamVid from './assets/email_sapm_detection.mp4'
 import fruitVid from './assets/fruit_and-vegetables_detection.mp4'
@@ -115,14 +115,13 @@ function ServiceCard({ icon, title, description, onSelectService }) {
 // ================= CONTACT FORM =================
 
 function ContactForm({ selectedService, services }) {
-  const [formData, setFormData] = useState({ name: '', email: '', service: '', message: '' })
+  const [formData, setFormData] = useState({
+    name: '',
+    email: '',
+    service: selectedService || '',
+    message: ''
+  })
   const [status, setStatus] = useState('idle')
-
-  useEffect(() => {
-    if (selectedService) {
-      setFormData(prev => ({ ...prev, service: selectedService }))
-    }
-  }, [selectedService])
 
   const handleChange = (e) => {
     const { name, value } = e.target
@@ -444,7 +443,7 @@ function App() {
 
         {/* CONTACT SECTION */}
         <section id="contact" ref={contactRef} className="py-20 bg-slate-100 border-t border-slate-200">
-          <ContactForm selectedService={selectedService} services={services} />
+          <ContactForm key={selectedService} selectedService={selectedService} services={services} />
         </section>
       </main>
 
