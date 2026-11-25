@@ -7,7 +7,7 @@ import nextstepost from './assets/nexstepai.png'
 import fruitpost from './assets/AgriculturalAi.png'
 import emailpost from './assets/intlligent_email_classifier.png'
 
-import resume from './public/Resume AI engineer Zakaria Bellachia.pdf'
+const resume = `${import.meta.env.BASE_URL}Resume AI engineer Zakaria Bellachia.pdf`;
 
 import '@fortawesome/fontawesome-free/css/all.min.css'
 
